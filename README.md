@@ -6,7 +6,5 @@ Rar:
     * QGIS and Layers
  -Save_Attributes:
     * Code
- -Diagram:
-    * Use Case and Sequence Diagram
  -Testing Video:
     *(mp4)
